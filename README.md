@@ -19,7 +19,7 @@
 - **软件工具**：使用 `efootprint` 软件进行环境负荷的计算，使用 `RStudio` 进行数据分析和可视化。
 - **数据来源**：
   - **文献数据**：收集相关学术文献中的秸秆资源化技术参数。
-  - **生命周期评价数据库**：利用中国生命周期基础数据库（CLCD）进行CO2排放量的计算。
+  - **生命周期评价数据库**：利用中国生命周期基础数据库（CLCD）进行CO₂排放量的计算。
   - **实景数据**：部分数据来源于企业和部门提供的实地生产数据。
 
 ## 结果与讨论
@@ -60,8 +60,8 @@
 <img width="2400" height="1800" alt="图5 秸秆与煤共燃的环境影响" src="https://github.com/user-attachments/assets/2a4ed826-ad68-4153-ad62-cf3c9980731f" />
 <img width="2400" height="1800" alt="图6  秸秆生产甲醇的环境影响" src="https://github.com/user-attachments/assets/c5993715-db95-4c64-8ef5-6ead864c7f63" />
 <img width="2400" height="1800" alt="图7 六种技术路线的环境影响比较" src="https://github.com/user-attachments/assets/4ec3df6a-33fd-4e40-a8f7-77daa1ae7b51" />
-<img width="468" height="341" alt="图8 不同省份秸秆与煤共燃的环境影响" src="https://github.com/user-attachments/assets/9c829661-66c0-4f51-8e63-37d7158c13eb" />
-<img width="468" height="342" alt="图9 不同省份秸秆直燃发电的环境影响" src="https://github.com/user-attachments/assets/c85cd981-4366-47f5-924f-1c774d7becbd" />
+<img width="1200" height="876" alt="图8 不同省份秸秆与煤共燃的环境影响" src="https://github.com/user-attachments/assets/cb94d31a-9441-4cea-a1ac-82812525fc2e" />
+<img width="1200" height="878" alt="图9 不同省份秸秆直燃发电的环境影响" src="https://github.com/user-attachments/assets/f14e76b6-b447-49f0-a473-f2faf0d3056d" />
 
 ## 团队成员
 
