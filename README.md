@@ -53,12 +53,15 @@
 
 ### 结果展示
 
-在 `RStudio` 中，您可以运行以下命令进行可视化分析：
-
-```R
-source("LCA_analysis.R")
-plot_results()
-```
+<img width="2400" height="1800" alt="图1 秸秆直接还田的环境影响" src="https://github.com/user-attachments/assets/d2a414b2-4511-45d7-8729-2eb512cb556d" />
+<img width="2400" height="1800" alt="图2 秸秆饲料化的环境影响" src="https://github.com/user-attachments/assets/04701927-415c-4418-9f51-47e07d53e4a4" />
+<img width="2400" height="1800" alt="图3 秸秆直燃发电的环境影响" src="https://github.com/user-attachments/assets/61e7cfe4-c8bc-4126-af4b-4b5344c17ad2" />
+<img width="2400" height="1800" alt="图4 秸秆厌氧发酵的环境影响" src="https://github.com/user-attachments/assets/29cb12a7-f882-47f9-9591-33b594eb7949" />
+<img width="2400" height="1800" alt="图5 秸秆与煤共燃的环境影响" src="https://github.com/user-attachments/assets/2a4ed826-ad68-4153-ad62-cf3c9980731f" />
+<img width="2400" height="1800" alt="图6  秸秆生产甲醇的环境影响" src="https://github.com/user-attachments/assets/c5993715-db95-4c64-8ef5-6ead864c7f63" />
+<img width="2400" height="1800" alt="图7 六种技术路线的环境影响比较" src="https://github.com/user-attachments/assets/4ec3df6a-33fd-4e40-a8f7-77daa1ae7b51" />
+<img width="468" height="341" alt="图8 不同省份秸秆与煤共燃的环境影响" src="https://github.com/user-attachments/assets/9c829661-66c0-4f51-8e63-37d7158c13eb" />
+<img width="468" height="342" alt="图9 不同省份秸秆直燃发电的环境影响" src="https://github.com/user-attachments/assets/c85cd981-4366-47f5-924f-1c774d7becbd" />
 
 ## 团队成员
 
